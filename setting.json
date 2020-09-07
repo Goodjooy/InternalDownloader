@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+  },
+  "cookies": {
+    "BDUSS": "I4VGJ0MWxVYWx4dU8xQkhIaVFQLWRVRlc2MnVvSnhVRzhGNE02QkZ3ek9XbXhmSUFBQUFBJCQAAAAAAAAAAAEAAAAkQYUjd3lxenl5OTgzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7NRF~OzURfUG"
+  },
+  "connect_timeout": 5.0,
+  "read_timeout": 5.0,
+  "thread_num": 4,
+  "chunk_size": 1024,
+  "sleep_time": 0.25,
+  "stop_count_limit": 50,
+  "link_delay": 1.5,
+  "verb": "GET"
+}
